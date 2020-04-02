@@ -18,17 +18,17 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String Nom, Dire;
+        String nom, dire;
         int tel;
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese Nombre");
-            Nom = teclado.nextLine();
+            nom = teclado.nextLine();
         System.out.println("Ingrese Direccion");
-            Dire = teclado.nextLine();    
+            dire = teclado.nextLine();    
         System.out.println("Ingrese Número de Telefono");
             tel = teclado.nextInt();    
-        System.out.println("Nombre"+Nom);
-        System.out.println("Dirección"+Dire);
+        System.out.println("Nombre"+nom);
+        System.out.println("Dirección"+dire);
         System.out.println("Numero de Telefono"+tel);
     }
     
