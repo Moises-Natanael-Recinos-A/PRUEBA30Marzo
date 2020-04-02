@@ -30,6 +30,11 @@ public class main {
         System.out.println("Nombre"+nom);
         System.out.println("Dirección"+dire);
         System.out.println("Numero de Telefono"+tel);
+        
+        
+        System.out.println("Nombre: Victor Daniel Tejeda Hernández");
+       System.out.println("Direccion: Huehuetenango  Zona 8");
+       System.out.println("Telefono: 34175073");
     }
     
 }
