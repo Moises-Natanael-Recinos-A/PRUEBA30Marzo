@@ -31,8 +31,11 @@ public class main {
         System.out.println("Dirección"+dire);
         System.out.println("Numero de Telefono"+tel);
         
+       System.out.println("Nombre: Moises Natanael Recinos A");
+       System.out.println("Direccion: Huehuetenango  Zona 4");
+       System.out.println("Telefono: 33299869");
         
-        System.out.println("Nombre: Victor Daniel Tejeda Hernández");
+       System.out.println("Nombre: Victor Daniel Tejeda Hernández");
        System.out.println("Direccion: Huehuetenango  Zona 8");
        System.out.println("Telefono: 34175073");
     }
