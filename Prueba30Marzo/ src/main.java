@@ -47,7 +47,10 @@ public class main {
        System.out.println("Direccion: Huehuetenango Zona 8");
        System.out.println("Telefono: 48548846");
        
-       
+        System.out.println("NOMBRE: Miguel Angel Gabriel Godinez);
+        System.out.println("DIRECCION: Huehuetenango Zona 8);
+        System.out.println("TELEFONO: 47201272);
+                       
     }
     
 }
