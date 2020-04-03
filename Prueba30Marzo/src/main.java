@@ -42,6 +42,12 @@ public class main {
        System.out.println("Nombre: José Alejandro López Ramírez");
        System.out.println("Direccion: Huehuetenango Zona 8");
        System.out.println("Telefono: 55928636");
+       
+       System.out.println("Nombre: Marvin Arnoldo Ordoñez Jimenez");
+       System.out.println("Direccion: Huehuetenango Zona 8");
+       System.out.println("Telefono: 48548846");
+       
+       
     }
     
 }
